@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Igor\\Desktop\\МПТ\\2 курс 2 семестр\\ПРАКТИКА\\C#\\WpfApp5\\WpfApp5\\WpfApp5.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Igor\\Desktop\\МПТ\\2 курс 2 семестр\\ПРАКТИКА\\C#\\WpfApp5\\WpfApp5\\WpfApp5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Igor\\Desktop\\МПТ\\2 курс 2 семестр\\ПРАКТИКА\\C#\\WpfApp5\\WpfApp5\\WpfApp5.csproj",
+        "projectName": "WpfApp5",
+        "projectPath": "C:\\Users\\Igor\\Desktop\\МПТ\\2 курс 2 семестр\\ПРАКТИКА\\C#\\WpfApp5\\WpfApp5\\WpfApp5.csproj",
+        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Igor\\Desktop\\МПТ\\2 курс 2 семестр\\ПРАКТИКА\\C#\\WpfApp5\\WpfApp5\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.8.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

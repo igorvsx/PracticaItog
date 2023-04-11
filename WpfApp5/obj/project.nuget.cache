@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "efDmR2kKmU2ioubexxeOOLuEsgBT0sBGoGmxWIRzsyIVgH2kmgK8OKQUzXJCJa1NtMI1GbIxFRZ7Kltv9XsirA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Igor\\Desktop\\МПТ\\2 курс 2 семестр\\ПРАКТИКА\\C#\\WpfApp5\\WpfApp5\\WpfApp5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
